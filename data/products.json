@@ -1,0 +1,111 @@
+[
+{
+    "id":"0",
+    "name":"Elie Tahari",
+    "specifications": {
+      "color":{"c1": "Navy",
+      "c2":"Black"},
+      "type":["Dress"],
+      "spec1":"Loz Sleeveless Lace-Trim A-Line Dress, Navy",
+      "spec2":"'Loz' dress by Elie Tahari features mixed lace trim.Scalloped split neckline.",
+      "size":{"s1":0,
+      "s2":2,
+      "s3":4}
+
+},
+"price":348.00,
+"shipping Cost": "Free Shipping",
+"image":"http://images.neimanmarcus.com/ca/1/product_assets/T/U/Q/E/4/NMTUQE4_mu.jpg"
+},
+{
+  "id":"1",
+  "name":"Stuart Weitzman",
+  "specifications": {
+    "color":{ "c1" : "Black",
+      "c2": "Praline",
+      "c3": "White"
+    },
+    "type":["Shoes"],
+    "spec1":"50/50 Suede Stretch Over-the-Knee Boot",
+    "spec2":"A stretch-fabric back gives this Stuart Weitzman boot a custom and comfortable fit. A low stacked heel offers a dose of carefree ease that's wearable all day and into the night.",
+    "size":{"s1":0,
+    "s2":2,
+    "s3":4}
+
+},
+"price":655.00,
+"shipping Cost": "Free Shipping",
+"image":"http://images.neimanmarcus.com/ca/1/product_assets/X/3/K/A/R/NMX3KAR_ak.jpg"
+},
+{
+  "id":"2",
+  "name":"Gucci",
+  "specifications": {
+    "color":{ "c1" : "White/Red/Blue",
+      "c2": "Black/Green"
+    },
+
+    "type":["Handbags"],
+    "spec1":"Sylvie Small Leather Shoulder Bag",
+    "spec2":"Gucci structured leather shoulder bag with signature web trim.Two interchangeable shoulder straps.Web ribbon shoulder strap, 6.3\" drop.Leather shoulder strap, 13.5\" drop.Flap top with curb chain and buckle details.Interior, microfiber lining; one zip and one slip pocket.6.8\"H x 10\"W x 3\"D.",
+    "size":{"s1":0,
+    "s2":2,
+    "s3":4}
+
+},
+"price":2490.00,
+"shipping Cost": "Free Shipping",
+"image":"http://neimanmarcus.scene7.com/is/image/NeimanMarcus/NMV2VY6_BB_m?&wid=400&height=500"
+},
+{
+  "id":"3",
+  "name":"Ermenegildo Zegna",
+  "specifications": {
+    "color":{"c1":"Brown"},
+    "type":["Apparel"],
+    "spec1":"Check Wool Two-Button Sport Coat, Brown/Light Blue",
+    "spec2":"Ermenegildo Zegna sport coat in check.Notch lapel; two-button front.Basted sleeves.Welted barchetta pocket at chest.Flap pockets at sides.Double-vented back.Wool.Made in Switzerland of Italian material.",
+    "size":{"s1":0,
+    "s2":2,
+    "s3":4}
+
+},
+"price":1995.00,
+"shipping Cost": "Free Shipping",
+"image":"http://images.neimanmarcus.com/ca/1/product_assets/N/4/Q/3/T/NMN4Q3T_mu.jpg"
+},
+{
+  "id":"4",
+  "name":"Dior",
+  "specifications": {
+    "color":{"c1":"Gold/Green"},
+    "type":["Accessories"],
+    "spec1":"Baby Monochromatic Aviator Sunglasses, Gold/Green",
+    "spec2":"Unworn vintage sunglasses by Christian Dior, circa 1980s.Aviator sunglasses.For children 0-4 years of age.",
+    "size":{"s1":0,
+    "s2":2,
+    "s3":4}
+
+},
+"price":300.00,
+"shipping Cost": "Free Shipping",
+"image":"http://images.neimanmarcus.com/ca/1/product_assets/D/1/7/M/6/NMD17M6_mu.jpg"
+},
+{
+  "id":"5",
+  "name":"Burberry",
+  "specifications": {
+    "color":{"c1":"Black"},
+    "type":["Accessories"],
+    "spec1":"Solid Felted Fringe Scarf, Black",
+    "spec2":"Burberry felted scarf with elongated fringe trim.Ample length to wrap and tie.Wool/cashmere/nylon/spandex.Made in Italy.",
+    "size":{"s1":0,
+    "s2":2,
+    "s3":4}
+
+},
+"price":795.00,
+"shipping Cost": "Free Shipping",
+"image":"http://images.neimanmarcus.com/ca/1/product_assets/D/2/L/N/T/NMD2LNT_mu.jpg"
+}
+]
